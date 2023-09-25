@@ -8,7 +8,7 @@ This repository is a collection of all my courses and certifications which I hav
 
 ## Coursera
 * [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/2XGD8PYDJREE)
-* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/e780204eceae77cfac57f9ae21b26708)
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/H5VSML362EYP)
 * [Convolutional Neural Networks in TensorFlow]()
 
 ## DataCamp
