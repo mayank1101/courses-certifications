@@ -7,9 +7,10 @@ This repository is a collection of all my courses and certifications which I hav
 * [Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications](https://www.coursera.org/account/accomplishments/verify/6V2H88QELZ38)
 
 ## Coursera
+* [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/BQSB4MN83AZW)
+* [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/VXL6UHPKKAET)
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/H5VSML362EYP)
 * [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/2XGD8PYDJREE)
-* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/e780204eceae77cfac57f9ae21b26708)
-* [Convolutional Neural Networks in TensorFlow]()
 
 ## DataCamp
 * [Python Programmer Career Track](https://www.datacamp.com/statement-of-accomplishment/track/541cc7ab0cc98d1e643f8906976bea5e552262e9)
