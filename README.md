@@ -8,7 +8,7 @@ This repository is a collection of all my courses and certifications which I hav
 
 ## Coursera Certificates
 * [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/59YGB8CVPGG7)
-* [TensorFlow: Advanced Techniques Specialization](Current pursuing this course)
+* TensorFlow: Advanced Techniques Specialization (Current pursuing this course)
 * [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CMDP3UV8Z4NA)
 * [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/BKT27N6J36J9)
 * [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/BQSB4MN83AZW)
