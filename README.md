@@ -16,6 +16,8 @@ This repository is a collection of all my courses and certifications which I hav
 * [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/2XGD8PYDJREE)
 
 ## DataCamp Certificates
+* [Intermediate Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/30a7578b58d919985250b63c98f0aa52f718ccda?raw=1)
+* [Introduction to Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/0de8125a7d33c0e94bd531b9c43ba732811690da?raw=1)
 * [Image Processing with Python](https://www.datacamp.com/statement-of-accomplishment/track/612a10bce51aaba65c886838ac3b601559f20564?raw=1)
 * [Biomedical Image Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/12335bc319798d1b02b55028156ee61afad273ed?raw=1)
 * [Image Processing with Keras in Python](https://www.datacamp.com/statement-of-accomplishment/course/2578f4cdfe65e71112118113a31bdad1e6024f62?raw=1)
