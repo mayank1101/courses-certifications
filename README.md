@@ -17,6 +17,7 @@ This repository is a collection of all my courses and certifications which I hav
 
 ## DataCamp Certificates
 * [Introduction to MLflow](https://www.datacamp.com/completed/statement-of-accomplishment/course/b2dbab2ddaefb6d748177c262b0ff21e48944e1c)
+* [Introduction to Docker](https://www.datacamp.com/completed/statement-of-accomplishment/course/6f38e7914f8fedb657bcb840e66804b7f2a82c57)
 * [Deep Learning for text with PyTorch](https://www.datacamp.com/completed/statement-of-accomplishment/course/d506cb72ea084015676a9fd168e8c46703c6e238)
 * [Intermediate Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/30a7578b58d919985250b63c98f0aa52f718ccda)
 * [Introduction to Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/0de8125a7d33c0e94bd531b9c43ba732811690da)
