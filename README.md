@@ -7,6 +7,7 @@ This repository is a collection of all my courses and certifications which I hav
 * [Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications](https://www.coursera.org/account/accomplishments/verify/6V2H88QELZ38)
 
 ## Coursera Certificates
+* [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/84dcd38d-b215-47aa-9327-592b04a6fbc3?usp=sharing)
 * [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/59YGB8CVPGG7) <!-- * TensorFlow: Advanced Techniques Specialization (Current pursuing this course) -->
 * [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CMDP3UV8Z4NA)
 * [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/BKT27N6J36J9)
