@@ -8,11 +8,12 @@ This repository is a collection of all my courses and certifications which I hav
 
 ## Coursera Certificates
 * [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/84dcd38d-b215-47aa-9327-592b04a6fbc3?usp=sharing)
-* [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/59YGB8CVPGG7) <!-- * TensorFlow: Advanced Techniques Specialization (Current pursuing this course) -->
+* [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/59YGB8CVPGG7)
 * [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CMDP3UV8Z4NA)
 * [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/BKT27N6J36J9)
 * [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/BQSB4MN83AZW)
 * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/VXL6UHPKKAET)
+* [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/H5VSML362EYP)
 * [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/2XGD8PYDJREE)
 
