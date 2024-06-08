@@ -12,7 +12,7 @@ This repository is a collection of all my courses and certifications which I hav
 ## Udacity Course Certificates - 
 * [Deep Learning Nano Degree Program](https://graduation.udacity.com/confirm/P5RJJDVZ)
 * [Computer Vision Nano Degree Program](https://graduation.udacity.com/confirm/XC3QK2NS)
-* [Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications](https://www.coursera.org/account/accomplishments/verify/6V2H88QELZ38)
+<!-- * [Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications](https://www.coursera.org/account/accomplishments/verify/6V2H88QELZ38) -->
 
 ## Coursera Specialization Certificates
 * [Introduction to Intel® Distribution of OpenVINO toolkit for Computer Vision Applications](https://www.coursera.org/account/accomplishments/verify/62DB9HFLBR96)
