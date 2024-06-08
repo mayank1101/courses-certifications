@@ -5,9 +5,6 @@ This repository is a collection of all my courses and certifications which I hav
 * [Finetuning Large Language Models](https://learn.deeplearning.ai/accomplishments/afbb8ed4-b0ee-4b1b-9a22-dc8ff6bfce8a)
 * [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/accomplishments/8400191e-b3e6-470d-990d-287c69d67a34)
 * [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/84dcd38d-b215-47aa-9327-592b04a6fbc3?usp=sharing)
-* [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/DJSFSGQL797Z)
-* [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/KJ4HV8UG2MDZ)
-* [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/L7VKYVGWZYDE)
 
 ## Udacity Course Certificates - 
 * [Deep Learning Nano Degree Program](https://graduation.udacity.com/confirm/P5RJJDVZ)
@@ -15,6 +12,9 @@ This repository is a collection of all my courses and certifications which I hav
 <!-- * [Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications](https://www.coursera.org/account/accomplishments/verify/6V2H88QELZ38) -->
 
 ## Coursera Specialization Certificates
+* [DeepLearning.AI Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/DJSFSGQL797Z)
+* [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/KJ4HV8UG2MDZ)
+* [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/L7VKYVGWZYDE)
 * [Introduction to Intel® Distribution of OpenVINO toolkit for Computer Vision Applications](https://www.coursera.org/account/accomplishments/verify/62DB9HFLBR96)
 
 ## DataCamp Certificates
