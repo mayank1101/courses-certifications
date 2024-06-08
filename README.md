@@ -1,21 +1,21 @@
 # Courses & Certifications
-This repository is a collection of all my courses and certifications which I have completed from various online learning platforms such as Udacity, Coursera, DataCamp, Udemy, GeeksforGeeks, CodingNinja etc.
+This repository is a collection of all my courses and certifications which I have completed from various online learning platforms such as DeepLearning.Ai, Coursera, Udacity, DataCamp, Udemy, GeeksforGeeks, CodingNinja etc.
+
+## DeepLearning.AI Courses - 
+* [Finetuning Large Language Models](https://learn.deeplearning.ai/accomplishments/afbb8ed4-b0ee-4b1b-9a22-dc8ff6bfce8a)
+* [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/accomplishments/8400191e-b3e6-470d-990d-287c69d67a34)
+* [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/84dcd38d-b215-47aa-9327-592b04a6fbc3?usp=sharing)
+* [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/DJSFSGQL797Z)
+* [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/KJ4HV8UG2MDZ)
+* [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/L7VKYVGWZYDE)
 
 ## Udacity Course Certificates - 
 * [Deep Learning Nano Degree Program](https://graduation.udacity.com/confirm/P5RJJDVZ)
 * [Computer Vision Nano Degree Program](https://graduation.udacity.com/confirm/XC3QK2NS)
 * [Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications](https://www.coursera.org/account/accomplishments/verify/6V2H88QELZ38)
 
-## Coursera Certificates
-* [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/accomplishments/8400191e-b3e6-470d-990d-287c69d67a34)
-* [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/84dcd38d-b215-47aa-9327-592b04a6fbc3?usp=sharing)
-* [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/59YGB8CVPGG7)
-* [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CMDP3UV8Z4NA)
-* [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/BKT27N6J36J9)
-* [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/BQSB4MN83AZW)
-* [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/VXL6UHPKKAET)
-* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/H5VSML362EYP)
-* [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/2XGD8PYDJREE)
+## Coursera Specialization Certificates
+* [Introduction to Intel® Distribution of OpenVINO toolkit for Computer Vision Applications](https://www.coursera.org/account/accomplishments/verify/62DB9HFLBR96)
 
 ## DataCamp Certificates
 * [Introduction to MLflow](https://www.datacamp.com/completed/statement-of-accomplishment/course/b2dbab2ddaefb6d748177c262b0ff21e48944e1c)
