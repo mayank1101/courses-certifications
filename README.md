@@ -2,6 +2,7 @@
 This repository is a collection of all my courses and certifications which I have completed from various online learning platforms such as DeepLearning.Ai, Coursera, Udacity, DataCamp, Udemy, GeeksforGeeks, CodingNinja etc.
 
 ## DeepLearning.AI Courses - 
+* [LangChain for LLM Application Development](https://learn.deeplearning.ai/accomplishments/971fc017-be28-48d2-a819-bd6e736b1422)
 * [Finetuning Large Language Models](https://learn.deeplearning.ai/accomplishments/afbb8ed4-b0ee-4b1b-9a22-dc8ff6bfce8a)
 * [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/accomplishments/8400191e-b3e6-470d-990d-287c69d67a34)
 * [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/84dcd38d-b215-47aa-9327-592b04a6fbc3?usp=sharing)
