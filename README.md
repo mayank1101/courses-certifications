@@ -1,24 +1,30 @@
 # Courses & Certifications
+
 This repository is a collection of all my courses and certifications which I have completed from various online learning platforms such as DeepLearning.Ai, Coursera, Udacity, DataCamp, Udemy, GeeksforGeeks, CodingNinja etc.
 
-## DeepLearning.AI Courses - 
+## DeepLearning.AI Courses -
+
+* [LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/be0b7f8c-b46d-4a3d-8079-a83031c5ad40)
 * [LangChain for LLM Application Development](https://learn.deeplearning.ai/accomplishments/971fc017-be28-48d2-a819-bd6e736b1422)
 * [Finetuning Large Language Models](https://learn.deeplearning.ai/accomplishments/afbb8ed4-b0ee-4b1b-9a22-dc8ff6bfce8a)
 * [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/accomplishments/8400191e-b3e6-470d-990d-287c69d67a34)
 * [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/84dcd38d-b215-47aa-9327-592b04a6fbc3?usp=sharing)
 
-## Udacity Course Certificates - 
+## Udacity Course Certificates -
+
 * [Deep Learning Nano Degree Program](https://graduation.udacity.com/confirm/P5RJJDVZ)
 * [Computer Vision Nano Degree Program](https://graduation.udacity.com/confirm/XC3QK2NS)
 <!-- * [Introduction to Intel® Distribution of OpenVINO™ toolkit for Computer Vision Applications](https://www.coursera.org/account/accomplishments/verify/6V2H88QELZ38) -->
 
 ## Coursera Specialization Certificates
+
 * [DeepLearning.AI Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/DJSFSGQL797Z)
 * [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/KJ4HV8UG2MDZ)
 * [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/L7VKYVGWZYDE)
 * [Introduction to Intel® Distribution of OpenVINO toolkit for Computer Vision Applications](https://www.coursera.org/account/accomplishments/verify/62DB9HFLBR96)
 
 ## DataCamp Certificates
+
 * [Introduction to MLflow](https://www.datacamp.com/completed/statement-of-accomplishment/course/b2dbab2ddaefb6d748177c262b0ff21e48944e1c)
 * [Introduction to Docker](https://www.datacamp.com/completed/statement-of-accomplishment/course/6f38e7914f8fedb657bcb840e66804b7f2a82c57)
 * [Deep Learning for text with PyTorch](https://www.datacamp.com/completed/statement-of-accomplishment/course/d506cb72ea084015676a9fd168e8c46703c6e238)
@@ -40,7 +46,7 @@ This repository is a collection of all my courses and certifications which I hav
 * [Introduction to Shell](https://www.datacamp.com/statement-of-accomplishment/course/4edc0d8b5e621d610dd39995c845208ccc1e0966)
 * [Introduction to Git](https://www.datacamp.com/statement-of-accomplishment/course/cf1ab0b09db1b0254314c8abf353540a57df5a42)
 
-
 ## Others certificates
+
 * [Blockchain](https://www.guvi.in/verify-certificate?id=m8168pV8n3qC190d51)
 * [Finance Workshop 2020-21 by IIM Tiruchirappalli](https://github.com/mayank1101/Certificates/blob/master/Finance%20Workshop%202020-21.pdf)
