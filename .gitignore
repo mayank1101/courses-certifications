@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 add_metadata.py
 ./Coursera/DeepLearning.AI-TensorFlow Advance Techniques Specialization/
+.DeepLearning.AI/DeepLearning.AI-Pretraining-LLMs/L2_data_preparation/data/preprocessed_dataset.parquet

@@ -4,6 +4,7 @@ This repository is a collection of all my courses and certifications which I hav
 
 ## DeepLearning.AI Courses -
 
+* [Pretraining LLMs](https://learn.deeplearning.ai/accomplishments/604fd916-7f61-472e-b0a4-e563a37e75e9)
 * [LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/be0b7f8c-b46d-4a3d-8079-a83031c5ad40)
 * [LangChain for LLM Application Development](https://learn.deeplearning.ai/accomplishments/971fc017-be28-48d2-a819-bd6e736b1422)
 * [Finetuning Large Language Models](https://learn.deeplearning.ai/accomplishments/afbb8ed4-b0ee-4b1b-9a22-dc8ff6bfce8a)
