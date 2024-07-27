@@ -42,10 +42,13 @@ This repository is a collection of all my courses and certifications which I hav
 * [Python Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/c81234c201006259b80f8e2ab7a2280be3af63e1)
 * [Python Data Science Tool Box (Part - 1)](https://www.datacamp.com/statement-of-accomplishment/course/9d126e69bf1cfed1b0a5ba63359da8f58b08927c)
 * [Python Data Science Tool Box (Part - 2)](https://www.datacamp.com/statement-of-accomplishment/course/bef354ba9fe3458e81713550c3f2687a34a81f62)
-* [NoSQL Concepts](https://www.datacamp.com/statement-of-accomplishment/course/1d43c4c0cc2517aaf9e803ec88d5ad3c65eba7e3)
-* [Introduction to MongoDB in Python](https://www.datacamp.com/statement-of-accomplishment/course/e4e9588237e4335a41e29bfc348103c1e010cf5e)
 * [Introduction to Shell](https://www.datacamp.com/statement-of-accomplishment/course/4edc0d8b5e621d610dd39995c845208ccc1e0966)
 * [Introduction to Git](https://www.datacamp.com/statement-of-accomplishment/course/cf1ab0b09db1b0254314c8abf353540a57df5a42)
+
+### SQL and Data Analysis
+* [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/b0a356d5af81687384b52cdcff895d488f37c76a)
+* [NoSQL Concepts](https://www.datacamp.com/statement-of-accomplishment/course/1d43c4c0cc2517aaf9e803ec88d5ad3c65eba7e3)
+* [Introduction to MongoDB in Python](https://www.datacamp.com/statement-of-accomplishment/course/e4e9588237e4335a41e29bfc348103c1e010cf5e)
 
 ## Others certificates
 
