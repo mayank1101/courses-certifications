@@ -2,7 +2,7 @@
 
 This repository is a collection of all my courses and certifications which I have completed from various online learning platforms such as DeepLearning.Ai, Coursera, Udacity, DataCamp, Udemy, GeeksforGeeks, CodingNinja etc.
 
-## DeepLearning.AI Courses -
+## DeepLearning.AI Short Courses -
 
 * [Pretraining LLMs](https://learn.deeplearning.ai/accomplishments/604fd916-7f61-472e-b0a4-e563a37e75e9)
 * [LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/be0b7f8c-b46d-4a3d-8079-a83031c5ad40)
@@ -45,7 +45,9 @@ This repository is a collection of all my courses and certifications which I hav
 * [Introduction to Shell](https://www.datacamp.com/statement-of-accomplishment/course/4edc0d8b5e621d610dd39995c845208ccc1e0966)
 * [Introduction to Git](https://www.datacamp.com/statement-of-accomplishment/course/cf1ab0b09db1b0254314c8abf353540a57df5a42)
 
-### SQL and Data Analysis
+### SQL, NoSQL and Data Analysis
+
+* [Joining Data in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/2c73b64a16e0c70d833e756fcae99c296045c846)
 * [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/b0a356d5af81687384b52cdcff895d488f37c76a)
 * [NoSQL Concepts](https://www.datacamp.com/statement-of-accomplishment/course/1d43c4c0cc2517aaf9e803ec88d5ad3c65eba7e3)
 * [Introduction to MongoDB in Python](https://www.datacamp.com/statement-of-accomplishment/course/e4e9588237e4335a41e29bfc348103c1e010cf5e)
